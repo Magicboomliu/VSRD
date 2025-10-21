@@ -21,7 +21,6 @@ https://github.com/skmhrk1209/VSRD/assets/29158616/fc64e7dd-2bb2-4719-b662-cb1e1
 <p align="center">
   <a href="https://www.bilibili.com/video/BV1mD421p7k9/"><img src="https://img.shields.io/badge/Watch%20on-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
   <br>
-  <em>中文观众可在 Bilibili 观看演示视频 | Watch on Bilibili for Chinese speakers</em>
 </p>
 
 </div>
